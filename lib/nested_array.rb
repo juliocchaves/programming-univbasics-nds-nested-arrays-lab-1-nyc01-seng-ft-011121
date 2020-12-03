@@ -47,6 +47,7 @@ def matrix_lookup(matrix, row, column)
     ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
     ]
     fruit_snacks[1][1]
+    fruit_snacks["Potatoes"]
   end
 
 def matrix_update(matrix, row, column, new_value)
